@@ -25,7 +25,7 @@ public class Story {
         mPages[2] = new Page(
                 R.drawable.page2,
                 context.getString(R.string.page2_text),
-                new Choice(context.getString(R.string.page2_choice1), 4),
+                new Choice(context.getString(R.string.page2_choice1), 1),
                 new Choice(context.getString(R.string.page2_choice2), 6));
 
         mPages[3] = new Page(
