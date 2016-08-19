@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Señales desde Marte</string>
+    <string name="start_adventure">Comenzar la aventura</string>
+    <string name="enter_name">Introduce tu nombre para empezar</string>
+    <string name="end_game">Volver a jugar</string>
+    <string name="page0_choice1">Parar e investigar</string>
+    <string name="page0_choice2">Continuar hacia la Tierra</string>
+    <string name="page0_text">En tu viaje de vuelta de investigar los anillos de Saturno escuchas una señal de angustia que parece venir de la superficie de Marte. Es extraño porque no ha habido una colonia en años. Todavía más extraño es que te está llamando por tu nombre: \"Ayúdame, %1$s, tú eres mi única esperanza.\"</string>
+    <string name="page1_choice1">Explorar la cueva</string>
+    <string name="page1_choice2">Explorar el rover</string>
+    <string name="page1_text">Aterrizas hábilmente la nave cerca de donde se ha escuchado la señal. No te has dado cuenta de nada raro en tu vuelo, pero parece haber una cueva delante tuyo. Detrás de ti hay un rover abandonado de principios del siglo 21.</string>
+    <string name="page2_choice1">Volver a Marte para investigar</string>
+    <string name="page2_choice2">Continuar hacia la Tierra</string>
+    <string name="page2_text">Continuas tu rumbo a la Tierra. Dos días más tarde, recibes una retransmisión de la sede diciendo que han detectado anomalías en la superficie de Marte cerca de un rover abandonado. Te llaman a investigar, pero la última decisión es tuya pues tu misión ya se ha alargado más de lo planeado y los recursos escasean.</string>
+    <string name="page3_choice1">Abastecerse en la nave e investigar el rover</string>
+    <string name="page3_choice2">Continuar hacia la luz tenue</string>
+    <string name="page3_text">Tu traje espacial está equipado con una linterna, que usas para adentrarte en la cueva. Después de buscar un rato tu nivel de oxígeno está bastante bajo. Sabes que deberías volver a abastecerte en la nave, pero hay una luz muy tenue un poco más delante.</string>
+    <string name="page4_choice1">Explorar las coordenadas</string>
+    <string name="page4_choice2">Volver a la tierra</string>
+    <string name="page4_text">El rover está cubierto de arena y la mayoría de los paneles solares se han roto. Bastante sorprendido, ves el sistema de a bordo arrancado y funcionando. De hecho, hay un mensaje en la pantalla: \"%1$s, ve a 28.543436, -81.369031.\" Esas coordendas no están muy lejos, pero no sabes si tendrás oxígeno suficiente para volver a casa.</string>
+    <string name="page5_text">Después de un largo paseo un poco costoso acabas en la cima de un pequeño cráter. Miras alrededor y encantado de volver a verte está tu androide preferido, %1$s-S1124. ¡Se había perdido en una de las últimas misiones a Marte! Te lo llevas a la nave y volvéis a la tierra sin más imprevistos.</string>
+    <string name="page6_text">Has llegado a casa. Aunque tu misión ha sido un éxito, siempre te preguntarás qué era esa misteriosa señal. Quizás lo podrás investigar en una misión futura…</string>
+</resources>
